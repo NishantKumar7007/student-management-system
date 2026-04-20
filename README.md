@@ -1,1 +1,1 @@
-# wiproday1
+# student mangaement system
